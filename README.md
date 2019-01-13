@@ -1,2 +1,2 @@
 # Collections-Implementation
-Implementation of ArrayList, HashSet and HashMap
+Implementing ArrayList, HashSet and HashMap using Arrays
